@@ -11,6 +11,7 @@ basic:
         - 1200
         - 1920
     pages:
+        - /
         - api-design
         - api-design/api-compliance
         - blog
