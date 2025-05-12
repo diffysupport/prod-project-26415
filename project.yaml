@@ -1,7 +1,7 @@
 basic:
     name: 'https://speakeasy.com/'
     environments:
-        production: 'https://speakeasy.com/'
+        production: 'https://www.speakeasy.com/'
         staging: ''
         development: ''
     breakpoints:
